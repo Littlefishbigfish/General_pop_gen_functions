@@ -1,6 +1,7 @@
 General_pop_gen_functions
 =========================
 
+<<<<<<< HEAD
 Here are some resources for you in this Git reprository:
 
 1) A collection of functions useful for population genetics analyses
@@ -23,3 +24,8 @@ Here are some resources for you in this Git reprository:
 4) A script to calculate pairwise Fst between sample sites
       - Provides Fst estimates
       - Provides a heatmap of Fst values between populations
+=======
+A collection of functions that I have found useful when trying to work with genetic data in R.
+
+I will add som fake data for some demo's of the functions soon.
+>>>>>>> 181ee04ccac2cba7b1a821c84fbdbb6644acc2b0
