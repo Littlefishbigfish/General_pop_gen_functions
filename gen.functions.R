@@ -1,3 +1,5 @@
+#some general functions for working with genetic data in R.
+
 #################
 ### alf.freqs()
 #################

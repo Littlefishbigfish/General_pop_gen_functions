@@ -1,7 +1,7 @@
 General_pop_gen_functions
 =========================
 
-Here are the resources for you in the Git reprository:
+Here are some resources for you in this Git reprository:
 
 1) A collection of functions useful for population genetics analyses
       - Note: Some I have created myself and others I have modified from the library(SOLOMON)
@@ -23,4 +23,3 @@ Here are the resources for you in the Git reprository:
 4) A script to calculate pairwise Fst between sample sites
       - Provides Fst estimates
       - Provides a heatmap of Fst values between populations
-    
